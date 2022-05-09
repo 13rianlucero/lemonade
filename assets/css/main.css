@@ -1153,8 +1153,8 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
-			/* background-image: url("https://i.pinimg.com/originals/ad/00/7f/ad007f5ea3d772d41ad0f2409c7d1884.gif"); */
+			/* background-image: url("../../images/bg.jpg"); */
+			background-image: url("https://images.squarespace-cdn.com/content/v1/5b1a625de749408826ca910a/1602806368690-L4679261O98DXCLE7ZXZ/lemonade_websitecover.gif");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
